@@ -9,4 +9,4 @@ Portfolio rebalancing tool for PM. Every month PMs need to rebalance their posit
 ![Alt text](assets/rebalance_trade_generator.png)
 
 Shows the dropdown list of strategies:
-![Alt text](assets/rebalance_trade_generator.png)
+![Alt text](assets/rtg_strategies_dropdown.png)
