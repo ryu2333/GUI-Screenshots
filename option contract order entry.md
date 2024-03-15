@@ -1,6 +1,7 @@
 # Option Contract Order/Trade Entry
 
 The Option Contract Entry interface provides a swift method for traders to initiate new option orders. By simply inputting the symbology into the designated field, traders can benefit from the window’s design that emphasizes both flexibility and rapid execution of option orders.
+
 - Strategy dropdown selection will be done automatically by recognizing the logged in trader.
 - Option strategy symbology input should consist of six blobs separated by space Examples of option symbology user has to follow are also provided.
 - First blob is either B (Buy) or S (Sell). The system automatically figures out if it's new order or unwinding of existing position. For example, Sell IBM option will be initiating a new short option position if there is no current positions.

@@ -1,4 +1,4 @@
-# Stock Loan Tableau Dashboard
+# Stock Loan Estimated Charge Tableau Dashboard
 
 - Tableau dashboard embedded in the WPF window.
 

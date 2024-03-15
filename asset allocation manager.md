@@ -1,6 +1,7 @@
 # Asset Allocation Manager
 
 Asset Allocation Manager interface allows administrator to set up (add/remove) new fund and strategy. Administrator can amend asset allocation and equity allocation percentage per strategy per fund. Totals tab shows total asset/equity allocations of funds. It does have breakdown of funds per strategy as well. Individual fund's detail can be accessed via the fund tab.
+
 - Setup window allows adding or removing fund or strategy.
 - Update the numbers can be done directly on the grid cell. The cell's background color will turn to pink for any changed numbers.
 - User will have an opportunity to confirm prior to saving the changes. The Verify & Save button will pop up another window highlighting all the changes made then user can submit the final changes.
