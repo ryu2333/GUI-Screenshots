@@ -1,7 +1,7 @@
 # Graphical User Interface Screenshots Reference
 Screenshots of various GUI or Tableau dashboards for idea generation. 
 
-I have captured images of various applications I’ve designed and developed. Prioritizing the development of intuitive and user-friendly interfaces is essential. Maintaining these well-crafted interfaces as references is beneficial
+I have captured images of various applications I’ve designed and developed. These apps were consumed by portfolio managers, traders, BI analysts, accountants, marketing teams, operation teams, etc. Prioritizing the development of intuitive and user-friendly interfaces is essential. Maintaining these well-crafted interfaces as references is beneficial for every developer.
 
 ### Samples of WPF interfaces:
 - [Portfolio Rebalancing Tool](rebalance%20trade%20generator.md)
