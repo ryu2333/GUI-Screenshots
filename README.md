@@ -18,3 +18,6 @@ I have captured images of various applications I’ve designed and developed. Th
 - [Hubspot Form Submission Anaytics](hubspot_form_submission_tableau.md)
 - [Podcast Episodes Activities Analytics](podcast%20episode%20activity%20tableau.md)
 - [Stock Loan Estimated Charge Analytics](stock%20loan%20tableau.md)
+
+### Digital Marketing Data Warehouse & Analytics
+- [Marketing Data Store & Anayltics](digital%20marketing%20data%20analytics.md)
