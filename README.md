@@ -3,7 +3,7 @@ Screenshots of various GUI or Tableau dashboards for idea generation.
 
 I have captured images of various applications I’ve designed and developed. Prioritizing the development of intuitive and user-friendly interfaces is essential. Maintaining these well-crafted interfaces as references is beneficial
 
-### Examples of WPF interfaces:
+### Samples of WPF interfaces:
 - [Portfolio Rebalancing Tool](rebalance%20trade%20generator.md)
 - [Option Contract Order Entry](option%20contract%20order%20entry.md)
 - [Asset Allocation Manager](asset%20allocation%20manager.md)
@@ -13,7 +13,7 @@ I have captured images of various applications I’ve designed and developed. Pr
 - [Repo Exposure Analytics](repo%20exposure.md)
 - [Stock Loan Rates](stock%20loan%20rates.md)
 
-### Examples of Tableau dashboards:
+### Samples of Tableau dashboards:
 - [CorpAxe Broker Commission & Comsumption Analytics](CorpAxe%20Broker%20Commission%20Tableau.md)
 - [Hubspot Form Submission Anaytics](hubspot_form_submission_tableau.md)
 - [Podcast Episodes Activities Analytics](podcast%20episode%20activity%20tableau.md)
